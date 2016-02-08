@@ -1,2 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 *.iml
+dd4t-cache-rs/target
+dd4t-providers-rs-client/target

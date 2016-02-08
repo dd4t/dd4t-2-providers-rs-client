@@ -16,7 +16,7 @@
 
 package org.dd4t.providers.rs;
 
-import org.dd4t.core.util.PublicationDescriptor;
+import org.dd4t.contentmodel.PublicationDescriptor;
 import org.dd4t.providers.PublicationProvider;
 
 /**
