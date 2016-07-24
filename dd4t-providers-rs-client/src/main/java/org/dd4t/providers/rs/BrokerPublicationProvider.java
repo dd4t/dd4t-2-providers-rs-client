@@ -36,6 +36,11 @@ public class BrokerPublicationProvider extends BaseBrokerProvider implements Pub
 		return 7;
 	}
 
+	@Override
+	public int discoverPublicationByImagesUrl (final String s) {
+		return 0;
+	}
+
 	@Override public String discoverPublicationUrl (final int publicationId) {
 		return null;
 	}
